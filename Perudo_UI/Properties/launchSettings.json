@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Perudo_UI": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost 3490"
+    }
+  }
+}
